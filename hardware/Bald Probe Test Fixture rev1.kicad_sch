@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "69fb604b-c385-43bc-8ad8-2f50fc307b6d")
+	(paper "A4")
+	(title_block
+		(title "Bald Probe Test Fixtures")
+		(rev "1")
+		(company "@baldengineer")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
