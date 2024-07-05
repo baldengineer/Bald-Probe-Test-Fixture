@@ -5,7 +5,8 @@
 	(uuid "69fb604b-c385-43bc-8ad8-2f50fc307b6d")
 	(paper "A4")
 	(title_block
-		(title "Bald Probe Test Fixtures")
+		(title "Bald Probe Test Fixture (SMA)")
+		(date "2024-07-05")
 		(rev "1")
 		(company "@baldengineer")
 	)
@@ -303,6 +304,16 @@
 			(type default)
 		)
 		(uuid "f6ba2208-9738-47f2-a711-a6cd4d860d92")
+	)
+	(text "Using Molex 73251-1153. \nFootprint is close to existing stock but not exact."
+		(exclude_from_sim no)
+		(at 119.38 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0b0baaa1-a9ab-4fac-a310-60ce9e8620c9")
 	)
 	(label "thru_trace"
 		(at 111.76 99.06 0)
