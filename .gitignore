@@ -30,3 +30,4 @@ fp-info-cache
 *.lck
 hardware/step/
 hardware/artwork/
+*.zip
